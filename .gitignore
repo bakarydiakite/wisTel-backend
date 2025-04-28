@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environnement virtuel
+venv/
+
+# Fichier de configuration secrète
+.env
+
+# Fichiers statiques Django
+staticfiles/
+media/
+
+# Base de données SQLite
+db.sqlite3
+
+# Paramètres de VSCode (si tu utilises VSCode)
+.vscode/
+
+# Dossiers d'installation de dépendances (si tu utilises d'autres outils)
+node_modules/
